@@ -1,2 +1,2 @@
 # rapeir-engine
-A physics engine built in rust
+A encryption and decryption algo
